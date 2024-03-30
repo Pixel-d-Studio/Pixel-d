@@ -10,6 +10,7 @@ Rolinked is a simple and fast Roblox Discord bot!
 - Fun
 - Other
 
-## Invite Link?
+## Join The Community 
 
-[built-in extensions](https://vitepress.dev/guide/markdown)
+[Bot Invite](https://discord.com/oauth2/authorize?client_id=1219911045926223914&permissions=8&scope=bot)
+[Discord Server](https://discord.gg/hns6mbPyAW)
