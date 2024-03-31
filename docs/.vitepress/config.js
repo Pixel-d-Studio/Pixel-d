@@ -28,6 +28,7 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: 'Info', link: '/Info' },
+          { text: 'Bot', link: '/bot' },
           // ...
         ],
       },
