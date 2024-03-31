@@ -1,0 +1,32 @@
+# Fork 
+Fork the repo https://github.com/Rolinked/Rolinked-Bot
+## Code
+```js
+const { AoiClient, LoadCommands } = require("aoi.js");
+const bot = new AoiClient({
+    token: '"MTIxOTkxMTA0NTkyNjIyMzkxNA.G_WgVq.QQYAzp3z7DJr9psBPzqnEITYm4U0xBMOlOZJTI",' // [!code focus]
+    prefix: ".",
+    intents: ["MessageContent", "Guilds", "GuildMessages"],
+    events: ["onMessage", "onInteractionCreate"],
+    database: {
+        type: "aoi.db",
+        db: require("@akarui/aoi.db"),
+        tables: ["main"],
+        path: "./database/",
+        extraOptions: {
+            dbType: "KeyValue"
+        }
+    }
+});
+
+const loader = new LoadCommands(bot);
+loader.load(bot.cmd, "./Commands/") //you can change this to any directory you want
+ 
+bot.status({
+    name: "noblixzy.js.cool",
+    type: "CUSTOM",
+    status: "online",
+    time: 10
+});
+```
+Now chanke the `token` to your own.
