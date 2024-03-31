@@ -30,3 +30,6 @@ bot.status({
 });
 ```
 Now chanke the `token` to your own.
+Get your token at https://discord.com/developers/
+
+
