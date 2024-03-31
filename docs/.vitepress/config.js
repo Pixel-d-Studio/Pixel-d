@@ -9,6 +9,7 @@ export default defineConfig({
     logo: './i.png',
     nav: [
       { text: 'Info', link: '/Info' },
+      { text: 'Bot', link: '/Bot' },
 
       // {
       //   text: 'Dropdown Menu',
