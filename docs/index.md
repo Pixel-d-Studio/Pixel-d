@@ -6,7 +6,7 @@ hero:
   text:  Simple Roblox Bot.
   tagline: Simple, powerful, and amazing roblox bot!
   image:
-    src: ./public/Rolinked.svg
+    src: ./public/fav.ico
     alt: Rolinked logo
   actions:
     - theme: brand

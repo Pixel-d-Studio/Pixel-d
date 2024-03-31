@@ -6,7 +6,7 @@ export default defineConfig({
   title: 'Rolinked',
   description: 'Coming Soon.',
   themeConfig: {
-    logo: './public/Rolinked.svg',
+    logo: './public/fav.ico',
     srcdir: './public',
     nav: [
       { text: 'Info', link: '/Info' },
