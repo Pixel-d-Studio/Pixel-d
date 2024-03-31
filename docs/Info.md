@@ -2,13 +2,9 @@
 
 Rolinked is a simple and fast Roblox Discord bot!
 
-## What commands will it have?
-
-  See, Rolinked's plan is to make a roblox bot which has:
-
-- Verification
-- Fun
-- Other
+::: warning
+Site isn't done!
+:::
 
 ## Join The Community 
 
