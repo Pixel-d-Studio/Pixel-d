@@ -1,33 +1,9 @@
 # What's Rolinked?
 
-Rolinked is a simple and fast Roblox Discord bot!
+Rolinked is a upcoming Discord-Roblox bot with commands like `.meme` which shows you random memes and `.status` which shows you Roblox's status.
 
-::: warning
-Site isn't done!
-:::
-# Made By
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: 'https://www.github.com/adityaredflag.png',
-    name: 'noblixzy',
-    title: 'Owner',
-    links: [
-      { icon: 'github', link: 'https://github.com/adityaredflag' },
-      { icon: 'twitter', link: 'https://twitter.com/adityaredflag' }
-    ]
-  },
-  ...
-]
-</script>
-
-# Our Team
-
-Say hello to our awesome team.
-
-<VPTeamMembers size="small" :members="members" />
+## Our Team 
+noblixzy - Owner
 
 ## Join The Community 
 
