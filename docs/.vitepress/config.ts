@@ -5,9 +5,9 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Rolinked',
   description: 'Coming Soon.',
-
   themeConfig: {
-    logo: '/Assets/Rolinked.svg',
+    logo: '/Base/Rolinked.svg',
+    srcdir: './Base',
     nav: [
       { text: 'Info', link: '/Info' },
 
