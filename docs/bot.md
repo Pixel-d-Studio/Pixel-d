@@ -4,7 +4,7 @@ Fork the repo https://github.com/Rolinked/Rolinked-Bot
 ```js
 const { AoiClient, LoadCommands } = require("aoi.js");
 const bot = new AoiClient({
-    token: '"MTIxOTkxMTA0NTkyNjIyMzkxNA.G_WgVq.QQYAzp3z7DJr9psBPzqnEITYm4U0xBMOlOZJTI",' // [!code focus]
+    token: "MTIxOTkxMTA0NTkyNjIyMzkxNA.G_WgVq.QQYAzp3z7DJr9psBPzqnEITYm4U0xBMOlOZJTI", // [!code focus]
     prefix: ".",
     intents: ["MessageContent", "Guilds", "GuildMessages"],
     events: ["onMessage", "onInteractionCreate"],
