@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   lang: 'en-US',
   title: 'Rolinked',
-  description: 'Coming Soon.',
+  description: 'Simple and Fun! | Connecting Roblox to Discord.',
   themeConfig: {
     logo: './i.png',
     head: [['link', { rel: 'icon', href: '/i.png' }]],
