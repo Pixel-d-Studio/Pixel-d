@@ -6,6 +6,8 @@ export default defineConfig({
   title: 'Rolinked',
   description: 'Simple and Fun! | Connecting Roblox to Discord.',
   themeConfig: {
+    socialLinks: [
+      { icon: 'discord', link: 'https://discord.gg/hns6mbPyAW' },
     logo: './i.png',
     head: [['link', { rel: 'icon', href: '/i.png' }]],
     nav: [
@@ -35,4 +37,5 @@ export default defineConfig({
       },
     ],
   },
+  ],
 });
