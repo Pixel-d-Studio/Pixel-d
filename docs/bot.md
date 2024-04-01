@@ -41,4 +41,5 @@ bot.status({
     time: 10
 });
 ```
-You can change `noblixzy.js.cool` to anything you like!
+You can change `noblixzy.js.cool` to anything you like,
+Check out https://aoi.js.org/guides/client/status/#_top for more info.
