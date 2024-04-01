@@ -7,6 +7,7 @@ export default defineConfig({
   description: 'Coming Soon.',
   themeConfig: {
     logo: './i.png',
+    head: [['link', { rel: 'icon', href: '/i.png' }]],
     nav: [
       { text: 'Info', link: '/Info' },
       { text: 'Bot', link: '/bot' },
