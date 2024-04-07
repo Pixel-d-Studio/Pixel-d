@@ -20,7 +20,6 @@ hero:
   image:
     src: /l.png
     alt: rolinked
-
     features:
   - icon: ./code-file-svgrepo-com.svg
     title: Thanks to
