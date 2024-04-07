@@ -9,7 +9,7 @@ name: Rolinked
     src: ./l.png
     alt: Rolinked logo
     features:
-  - icon: ðŸ“
+  - icon: 
     title: Code
     details: This bot was written in aoi.js
   - icon: ./code-file-svgrepo-com.svg/
