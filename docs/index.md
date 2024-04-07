@@ -5,16 +5,15 @@ title: Rolinked
 titleTemplate: Rolinked
 
 hero:
-  name: Rolinked
   text: Rolinked
   tagline: Get linked
   actions:
     - theme: brand
       text: Let's Go!
-      link: /docs/Info.md
+      link: /Info.md
     - theme: alt
       text: Edit The Code
-      link: /docs/bot.md
+      link: /bot.md
     - theme: alt
       text: GitHub
       link: https://github.com/orgs/rolinked
