@@ -1,15 +1,20 @@
 ---
 layout: home
-
+title: Rolinked
 hero:
-  name: Rolinked
+name: Rolinked
   text:  Simple Roblox Bot.
   tagline: Simple, powerful, and amazing roblox bot!
   image:
     src: ./l.png
     alt: Rolinked logo
+    features:
+  - icon: ðŸ“
+    title: Code
+    details: This bot was written in aoi.js
+  - icon: ./code-file-svgrepo-com.svg/
   actions:
-    - theme: brand
+   - theme: brand
       text: Get Started
       link: /Info
     - theme: alt
