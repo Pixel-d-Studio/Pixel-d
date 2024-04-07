@@ -1,24 +1,27 @@
 ---
 layout: home
+
 title: Rolinked
+titleTemplate: Rolinked
+
 hero:
-name: Rolinked
-  text:  Simple Roblox Bot.
-  tagline: Simple, powerful, and amazing roblox bot!
-  image:
-    src: ./l.png
-    alt: Rolinked logo
-    features:
-  - icon: 
-    title: Code
-    details: This bot was written in aoi.js
-  - icon: ./code-file-svgrepo-com.svg/
+  name: Rolinked
+  text: Rolinked
+  tagline: Get linked
   actions:
-   - theme: brand
-      text: Get Started
-      link: /Info
+    - theme: brand
+      text: Let's Go!
+      link: /docs/Info.md
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/orgs/Rolinked/
+      text: Edit The Code
+      link: /docs/bot.md
+    - theme: alt
+      text: GitHub
+      link: https://github.com/orgs/rolinked
+  image:
+    src: /l.png
+    alt: rolinked
+
+
 ---
 <style> :root { --vp-home-hero-name-color: transparent; --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #FAEBEFFF 30%, #333D79FF); --vp-home-hero-image-background-image: linear-gradient(-45deg, #FAEBEFFF 50%, #333D79FF 50%); --vp-home-hero-image-filter: blur(44px); } @media (min-width: 640px) { :root { --vp-home-hero-image-filter: blur(56px); } } @media (min-width: 960px) { :root { --vp-home-hero-image-filter: blur(68px); } } </style>
