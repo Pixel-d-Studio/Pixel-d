@@ -1,4 +1,4 @@
-As of my last update, Roblox does not provide specific terms or policies for creating Discord bots related to their platform. However, if you intend to create a Discord bot that interacts with Roblox services or data, it's important to adhere to Roblox's Terms of Service (ToS) and Developer Policy.
+
 
 Here are some general guidelines to follow:
 
