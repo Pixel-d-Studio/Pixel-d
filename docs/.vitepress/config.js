@@ -3,13 +3,13 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'Rolinked',
-  description: 'Simple and Fun! | Connecting Roblox to Discord.',
+  title: 'PixelD Studio',
+  description: 'Upcoming Bot Studio',
   themeConfig: {
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/hns6mbPyAW' }],
     logo: './i.png',
-    head: [['link', { rel: 'icon', href: '/i.png' }]],
+    head: [['link', { rel: 'icon', href: '/logo.png' }]],
     nav: [
       { text: 'Info', link: '/Info' },
       { text: 'Bot', link: '/bot' },
