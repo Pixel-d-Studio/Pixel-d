@@ -1,21 +1,21 @@
 ---
 layout: home
 
-title: Rolinked
-titleTemplate: Rolinked
+title: Pixel'D
+titleTemplate: Pixel'D
 
 hero:
-  text: Rolinked
-  tagline: Get linked
+  text: Pixel'D
+  tagline: Upcoming Discord Bot Studio
   actions:
     - theme: brand
       text: Let's Go!
       link: /Info.md
     - theme: alt
-      text: Edit The Code
+      text: Our Bots!
       link: /bot.md
     - theme: alt
-      text: GitHub
+      text: Github
       link: https://github.com/orgs/rolinked
   image:
     src: /l.png
