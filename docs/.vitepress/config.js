@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/hns6mbPyAW' }],
-    logo: './i.png',
+    logo: './logo.png',
     head: [['link', { rel: 'icon', href: '/logo.png' }]],
     nav: [
       { text: 'Info', link: '/Info' },
