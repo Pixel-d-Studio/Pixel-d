@@ -21,4 +21,20 @@ hero:
     src: /logo.png
     alt: Pixel'd
 ---
-<style> :root { --vp-home-hero-name-color: transparent; --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #FAEBEFFF 30%, #333D79FF); --vp-home-hero-image-background-image: linear-gradient(-45deg, #FAEBEFFF 50%, #333D79FF 50%); --vp-home-hero-image-filter: blur(44px); } @media (min-width: 640px) { :root { --vp-home-hero-image-filter: blur(56px); } } @media (min-width: 960px) { :root { --vp-home-hero-image-filter: blur(68px); } } </style>
+:root {
+  --vp-home-hero-name-color: #ffffff; /* White text color */
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #333D79FF 30%, #007bff); /* Blue gradient */
+  --vp-home-hero-image-filter: blur(20px); /* Reduced blur for sharper image */
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(30px); /* Adjust blur on larger screens */
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(40px); /* More blur on even larger screens (optional) */
+  }
+}
